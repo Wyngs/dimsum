@@ -1,4 +1,6 @@
 package com.example.dimsum;
 
-public class Shape {
+abstract class Shape {
+    int x;
+    int y;
 }
